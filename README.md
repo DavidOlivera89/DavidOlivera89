@@ -6,7 +6,7 @@ A punto de recibirme como Licenciado en Informática, poseo además el título d
 
 Entusiasta de las nuevas tecnologías, con facilidad para el aprendizaje y comprometido con el trabajo, me encuentro en permanente capacitación.
 
-De momento me encuentro realizando una capacitacion de fullstack javascript en soyHenry con tecnologias como React, Nodejs, Redux, Postgresql...
+De momento me encuentro realizando una capacitacion de fullstack javascript en soyHenry con tecnologias como React, Nodejs, Redux y Postgresql entre otras.
 
 Actualmente desempeño como desarrollador freelance en diferentes proyectos y como referente de transformación digital realizando soporte de aplicaciones, desarrollo y asesoramiento para adquisición e implementación de sistemas.
 
