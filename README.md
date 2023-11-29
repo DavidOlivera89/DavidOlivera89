@@ -22,7 +22,8 @@ Actualmente desempeño como Software Developer Ssr en diferentes proyectos y en 
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" title="spring" **alt="spring" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" title="plsql" **alt="plsql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="py" **alt="py" width="40" height="40"/>
+  
 
 
 </div>
