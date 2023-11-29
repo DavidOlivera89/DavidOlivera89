@@ -2,11 +2,9 @@
 
 Soy David Olivera y soy desarrollador de software. 
 
-A punto de recibirme como Licenciado en Informática, poseo además el título de Analista Programador Universitario.
-
 Entusiasta de las nuevas tecnologías, con facilidad para el aprendizaje y comprometido con el trabajo, me encuentro en permanente capacitación.
 
-Actualmente desempeño como desarrollador en diferentes proyectos y en transformación digital realizando soporte de aplicaciones, desarrollo y asesoramiento para adquisición e implementación de sistemas.
+Actualmente desempeño como Software Developer Ssr en diferentes proyectos y en transformación digital realizando desarrollos, soporte de aplicaciones y asesoramiento para adquisición e implementación de sistemas.
 
 ### Tecnologías:
 
@@ -24,6 +22,7 @@ Actualmente desempeño como desarrollador en diferentes proyectos y en transform
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" title="spring" **alt="spring" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="plsql" **alt="plsql" width="40" height="40"/>
 
 
 </div>
