@@ -2,9 +2,9 @@
 
 Soy David Olivera y soy desarrollador de software. 
 
-Entusiasta de las nuevas tecnologías, con facilidad para el aprendizaje y comprometido con el trabajo, me encuentro en permanente capacitación.
+Actualmente desempeño como Software Developer en diferentes proyectos y en transformación digital realizando desarrollos, soporte de aplicaciones y asesoramiento para adquisición e implementación de sistemas.
 
-Actualmente desempeño como Software Developer Ssr en diferentes proyectos y en transformación digital realizando desarrollos, soporte de aplicaciones y asesoramiento para adquisición e implementación de sistemas.
+Licenciado en Informática y Analista Programador Universitario con más de 5 años de experiencia en desarrollo de software, especializado en arquitecturas de microservicios y soluciones fullstack. He contribuido activamente a proyectos de transformación digital, e implementando soluciones escalables con tecnologías como Java, Quarkus, Angular, React y bases de datos Oracle con PL/SQL, en entornos cloud como Google Cloud Platform (GCP). Complemento mi experiencia técnica con formación en DevOps e Inteligencia Artificial.
 
 ### Tecnologías:
 
@@ -21,6 +21,7 @@ Actualmente desempeño como Software Developer Ssr en diferentes proyectos y en 
   <img src="https://skillicons.dev/icons?i=github" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" **alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=quarkus" title="Quarkus" **alt="Quarkus" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" title="spring" **alt="spring" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" title="py" **alt="py" width="40" height="40"/>
   
