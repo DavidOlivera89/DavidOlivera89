@@ -16,12 +16,11 @@ Licenciado en Informática y Analista Programador Universitario con más de 5 a�
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>  
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=express" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" title="Sequelize" alt="Sequelize" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=github" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java" **alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=quarkus" title="Quarkus" **alt="Quarkus" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="gcp" **alt="gcp" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" title="spring" **alt="spring" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" title="py" **alt="py" width="40" height="40"/>
   
